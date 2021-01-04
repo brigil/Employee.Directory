@@ -30,7 +30,7 @@
   
  Instructions and examples for use:
  
-  1)In the homepage the user will see a display of their employees. 
+  1) In the homepage the user will see a display of their employees. 
   
   2) Filter your search by typing a name in he search bar. 
   
